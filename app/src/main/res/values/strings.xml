@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JsonE</string>
+    <string name="map_add_from_internet">map_add_from_internet</string>
+    <string name="my_key">API_KEY</string>
+</resources>
