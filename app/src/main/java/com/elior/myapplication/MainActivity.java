@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
         list_data = new ArrayList<>();
 
-        HI = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=31.4,35.1&radius=50000&sensor=true&rankby=prominence&types=&keyword=&key=" + getString(R.string.my_key);
+        HI = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=31.4,34.1&radius=50000&sensor=true&rankby=prominence&types=&keyword=&key=" + getString(R.string.my_key);
     }
 
     private void myRecyclerView() {
